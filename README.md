@@ -39,8 +39,8 @@ backend/
 
 ### 1. Clone repo & masuk folder
 ```bash
-git clone https://github.com/username/shorts-clipper.git
-cd backend
+git clone https://github.com/jhodypedia/ytshorts.git
+cd ytshorts
 ```
 
 ### 2. Install dependensi
